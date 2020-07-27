@@ -60,7 +60,7 @@ const User = ({ match }) => {
               </h3>
             </Fragment>
           )}
-          <a href={html_url} className='btn btn-dark btn-block my-1'>
+          <a href={user.html_url} className='btn btn-dark btn-block my-1'>
             Visit github profile
           </a>
           <ul>
