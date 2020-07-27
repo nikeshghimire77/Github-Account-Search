@@ -19,7 +19,6 @@ const User = ({ match }) => {
     location,
     bio,
     login,
-    html_url,
     followers,
     following,
     public_repos,
